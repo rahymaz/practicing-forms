@@ -1,0 +1,13 @@
+h1 {
+    background-color: rgb(65, 99,201);
+}
+.container {
+width: 100px;
+height: 200px;
+background-color: blanchedalmond;
+}
+.container1 {
+    width: 50px;
+    height: 75px;
+    background-color: rgb(255, 205, 205);
+    }
